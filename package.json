@@ -1,0 +1,22 @@
+{
+  "name": "yelsnef",
+  "version": "1.0.0",
+  "description": "unique way to use js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPMission/yelsnef.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "fensley Rene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NPMission/yelsnef/issues"
+  },
+  "homepage": "https://github.com/NPMission/yelsnef#readme"
+}

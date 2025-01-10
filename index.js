@@ -1,6 +1,6 @@
 // a simple way to calculate paycheck
 
-const testing = (monthlyHour, hourlyRates) => {
+const testing = (monthlyHours, hourlyRates) => {
   return monthlyHour * hourlyRates;
 };
 
